@@ -1,0 +1,2 @@
+# hello
+Go Function Test
